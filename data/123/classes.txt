@@ -1,0 +1,8 @@
+long
+circle
+columnar
+grip
+blade
+grasp
+round_grip
+hollow

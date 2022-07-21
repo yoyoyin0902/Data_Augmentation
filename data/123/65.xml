@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orig_img</folder>
+	<filename>17.jpg</filename>
+	<path>/home/user/cali/orig_img/17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>columnar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>354</ymin>
+			<xmax>476</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
